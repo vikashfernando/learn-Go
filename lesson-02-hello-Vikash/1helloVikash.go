@@ -7,3 +7,5 @@ import (
 func main() {
 	fmt.Println("Hello vikash")
 }
+
+//!!!tip > fmt= fuck my terminal
