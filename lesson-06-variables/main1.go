@@ -39,7 +39,7 @@ import (
 	"fmt"
 )
 
-func main() {
+func main1() {
 	//variables
 	var name string = "vikash" //String types variable (declaring type1)
 	var age = 23               //inferred typed variable (declaring type1)
